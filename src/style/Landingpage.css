@@ -1,0 +1,39 @@
+.myBG {
+    height: 100vh;
+    background: url(../assets/images/bg/sl_121019_25870_79.jpg);
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+
+.title{
+ font-size: 3rem;
+ font-weight: 800;
+ line-height: 1;
+ letter-spacing: 3px;
+}
+
+.trending{
+    height: auto;
+    background: black;
+    background-size: cover;
+}
+
+.movieImage{
+    height: auto;
+}
+
+.movieWrapper{
+
+}
+
+.spacing{
+    margin-top: 20px;
+    padding-top: 20px;
+}
